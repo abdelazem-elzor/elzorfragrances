@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>  ELZOR Fragrances </title>
+
+
+<link rel="icon" href ="images/logo with the word E.png" />
+</head>
+
+
+<body>
+<a href="Fragrances.html"> Fragrances</a>
+
+<h1 style="text-align:center">
+    ELZOR
+</h1>
+
+<!-- logo -->
+<img  src="images/zr no bg.png"width="250"height="250" style="display: block;margin:auto;">
+
+<h2 style="text-align: center;">
+    luxury perfumes
+</h2>
+
+<h3> You have the BEST severel Scents! </h3>
+
+<!-- <pre></pre> -->
+
+
+
+<p>Contact us :</p>
+
+<a href="https://www.instagram.com/abdoelzor/" target="_blank">
+instagram
+</a>
+
+</body>
+</html>
